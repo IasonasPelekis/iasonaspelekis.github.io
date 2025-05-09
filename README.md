@@ -14,7 +14,7 @@ This site is built to:
 
 Feel free to explore the source code or visit the live site:
 
-🔗 **Live Site**: [https://IasonaslPelekis.github.io](https://IasonaslPelekis.github.io)
+🔗 **Live Site**: [https://iasonaslpelekis.github.io](https://iasonaslpelekis.github.io)
 
 ## 💡 Features
 
