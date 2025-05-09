@@ -1,4 +1,4 @@
-# IasonaslPelekis.github.io
+# IasonasPelekis.github.io
 # GitHub.io Page
 
 Welcome to my personal website hosted on [GitHub Pages](https://pages.github.com/)!
@@ -14,7 +14,7 @@ This site is built to:
 
 Feel free to explore the source code or visit the live site:
 
-🔗 **Live Site**: [https://iasonaslpelekis.github.io](https://iasonaslpelekis.github.io)
+🔗 **Live Site**: [https://iasonaspelekis.github.io](https://iasonaspelekis.github.io)
 
 ## 💡 Features
 
